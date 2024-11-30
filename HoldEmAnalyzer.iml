@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+  </component>
+  <component name="EclipseModuleManager">
+    <libelement value="file://C:/Documents and Settings/Brian Teeter/My Documents/Assorted Internet Ventures LLC/Custom Software/Hold Em Assistant/jfreechart-1.0.2/lib/jfreechart-1.0.2.jar" />
+    <libelement value="file://C:/Documents and Settings/Brian Teeter/My Documents/Assorted Internet Ventures LLC/Custom Software/Hold Em Assistant/jfreechart-1.0.2/lib/jcommon-1.0.5.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$" expected_position="0" />
+    </src_description>
+  </component>
+</module>
